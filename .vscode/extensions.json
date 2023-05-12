@@ -4,6 +4,7 @@
     "ecmel.vscode-html-css",
     "kubosho.ecsstractor",
     "ritwickdey.liveserver",
-    "github.copilot"
+    "github.copilot",
+    "dend.rapid"
   ]
 }
